@@ -12,13 +12,14 @@ This is a Python implementation of the classic mobile game called snake, in whic
 
 <div style="text-align:center"><img src="/images/snake-game.png" width=50%></div>
 
-## Trying the Game
-* Simply download main.py and the other source code files in the src folder, then launch the game by running main.py.  
-* No special module installs are necessary, because turtle graphics is part of the Python standard library.
+## Game Installation
+* Download main.py and the other source code files in the src folder, or clone the repository. 
+* Launch the game by running main.py.  
+* No special module installs are necessary, because turtle graphics is included in the Python standard library.
 
 
 ## Supporting Libraries and APIs
 * Turtle Graphics: https://docs.python.org/3/library/turtle.html#:~:text=The%20turtle%20module%20is%20an,up%20to%20version%20Python%202.5.
 
 ## Future Development  
-I do not plan to improve this application in the future, other than bug fixes if necessary.
+I do not plan to develop this application any more in the future, but will make bug fixes if necessary.
